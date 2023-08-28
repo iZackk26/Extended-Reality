@@ -7,28 +7,18 @@ title: Current and future Extended Reality applications
 nocite: |
     @*
 lang: us
+header-includes:
+    \usepackage{graphicx}
+    \graphicspath{{/home/izack/Proyectos/Latex/XR/Pictures}}
+
 ---
 
 # Abstract
 
 Text here!
-
 # Introduction
 
 Text here!
-
-# Justification
-
-Text here!
-
-# Objectives
-
-1. General Objective
-
-One here
-1. Specific Objectives
-
-Another here
 
 # State of Art
 
@@ -42,6 +32,11 @@ technology is used to create immersive experiences for the user, by combining
 real and virtual worlds. The term XR initialized when Charles Wyckoff filled a
 patent in 1960 for his development. Then nowadays the term has moved to the
 mainstream of videogames and medicine. [@hayes-2023]
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=6cm,height=4cm]{XR}
+\end{figure}
+
 
 1. Augmented Reality
         AR is an enhanced version of the real physical world that is achieved
@@ -440,6 +435,14 @@ using this technology. The process consists of several steps:
     1. Short autopilot guided flight.
     1. Supervised 15 minutes flight.
     1. Unsupervised 30 minutes flight. [@ARJONI2023e14181]
+
+<!-- \includegraphics[width=4cm, height=4cm]{AR} -->
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=4cm,height=4cm]{AR}
+    \caption{Running training, with the leader aircraft projected}
+    \label{fig:etiqueta}
+\end{figure}
 
 ## Hospitality and hotel personnel training
 
