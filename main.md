@@ -15,7 +15,30 @@ header-includes:
 
 # Abstract
 
-Text here!
+This article presents how extended reality and its components have
+revolutionize the insdustries, educational systems, medical procedures, also
+this article is going to explain the components of the extended reality, for
+example what is it, what is virtual reality, mixed reality. Also this article
+will talk about the most popular topics used in extended realit will talk about
+the most popular topics used in extended reality.
+
+XR mixes real and virtual worlds, several studies prove that this can improve
+educational areas, due to its interactive form. As well this technology can
+improve how studets of medicine practice with bodys and identifies their parts,
+medical students can dive into these immersive experiences, practicing complex
+procedures and getting a hands-on understanding of the body, all without
+putting real patients at risk. Even experienced doctors can use XR to fine-tune
+their surgical skills and stay up-to-date with the latest techniques through
+lifelike simulations and virtual learning environments.
+
+In other areas like aeronatics it can be very helpfull because people can
+practice using flight simulators, that provides an immersive environment to
+hone their skills, test scenarios, and experience a wide array of flight
+conditions. This immersive approach enables aviation enthusiasts to gain
+invaluable experience, refine their decision-making skills, and bolster their
+ability to navigate complex situations.
+
+
 # Introduction
 
 Text here!
@@ -468,7 +491,7 @@ here are some reasons why:
    scenarios provided by XR, allowing hotel superiors to give employees
    different recommendations and identify areas they should improve. [@CUNHA2023634]
 
-   # Conclusion
+# Conclusion
 As we are well aware, the march forward of extended reality (XR) technology is
 transcending a multitude of spheres within society, setting in motion a
 profound transformation in the way we engage with our surroundings and acquire
@@ -476,17 +499,18 @@ novel proficiencies. From education to the realm of tourism, extending to
 professional development and healthcare, XR is fundamentally reshaping our
 understanding and interaction with the world around us.
 
-In the realm of education, the infusion of XR technology is imbuing spatial comprehension with
-renewed vitality and facilitating interactive learning by affording students
-the means to delve into architectural designs in real-time.
-This dynamic approach not only fosters a deeper comprehension but also serves as a catalyst
-for identifying and rectifying errors, thereby enhancing the capacity for
-well-informed decision-making. In the domain of marketing, the ascendancy of
-virtual reality (VR) is poised to emerge as a strategic cornerstone for
-captivating potential travelers and consumers. By engineering immersive and
-emotive experiences, VR stands as a pivotal tool to demarcate brands and hold
-sway over an increasingly diverse array of audiences, thereby infusing fresh
-dynamics into the landscape of destination promotion and marketing.
+In the realm of education, the infusion of XR technology is imbuing spatial
+comprehension with renewed vitality and facilitating interactive learning by
+affording students the means to delve into architectural designs in real-time.
+This dynamic approach not only fosters a deeper comprehension but also serves
+as a catalyst for identifying and rectifying errors, thereby enhancing the
+capacity for well-informed decision-making. In the domain of marketing, the
+ascendancy of virtual reality (VR) is poised to emerge as a strategic
+cornerstone for captivating potential travelers and consumers. By engineering
+immersive and emotive experiences, VR stands as a pivotal tool to demarcate
+brands and hold sway over an increasingly diverse array of audiences, thereby
+infusing fresh dynamics into the landscape of destination promotion and
+marketing.
 
 Concurrently, health and well-being are undergoing a renaissance propelled by
 XR. From integrating auditory alerts for individuals with visual impairments to
@@ -499,14 +523,14 @@ training of military aviators through the prism of virtual reality, XR is
 definitively diminishing hazards, curbing expenditures, and elevating the
 overall standard of preparedness.
 
-Turning our gaze to the Costa Rican context,
-the "Amón RA" project unveils the potential of augmented reality to deepen the
-comprehension of cultural and historical heritage. By means of an interactive
-application, users are invited to navigate virtual elements within their
-tangible environment, thereby enriching their affiliation with the storied
-legacy and vibrant culture of Costa Rica. Collectively, the inexorable
-progression of XR is etching an expansive canvas painted with limitless
-prospects, redefining our interface with knowledge, ingenuity, and the world at
-large. While propelling ahead, this technological advancement offers to push
-the envelope, revolutionizing our mode of existence, edification, and
-engagement with the ever-evolving world that envelopes us.
+Turning our gaze to the Costa Rican context, the "Amón RA" project unveils the
+potential of augmented reality to deepen the comprehension of cultural and
+historical heritage. By means of an interactive application, users are invited
+to navigate virtual elements within their tangible environment, thereby
+enriching their affiliation with the storied legacy and vibrant culture of
+Costa Rica. Collectively, the inexorable progression of XR is etching an
+expansive canvas painted with limitless prospects, redefining our interface
+with knowledge, ingenuity, and the world at large. While propelling ahead, this
+technological advancement offers to push the envelope, revolutionizing our mode
+of existence, edification, and engagement with the ever-evolving world that
+envelopes us.
