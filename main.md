@@ -165,7 +165,7 @@ Nowadays, augmented reality has gained recognition due to video games and
 industries that produce technology linked to the VR concept. For example, Meta
 with the Oculus Quest, PlayStation with its own VR headset, and now Apple joins
 the battle with the Vision Pro. All these devices have something in common:
-virtual reality.**CITE**
+virtual reality.[@pcmag-2023]
 
 Have you ever thought about what you can do in a video game with augmented
 reality? For example, Racing Simulation, also known as sim racing, is a very
@@ -255,8 +255,7 @@ around us.
 
 ## Marketing
 
-VR the world: Experimenting with emotion and presence for tourism mar-
-keting
+### VR the world: Experimenting with emotion and presence for tourism marketing
 Based on the conducted study, virtual reality (VR) holds significant implications for marketing tourist des-
 tinations, particularly in the post-COVID-19 landscape. Integrating virtual reality into marketing campaigns
 can prove highly advantageous for tourism companies, especially those centered around attractions such
@@ -265,6 +264,7 @@ inclination towards purchasing tickets. This strategic advantage over traditiona
 approaches highlights the pivotal role of delivering exceptional experiences in retaining customers. Con-
 sequently, this approach positions brands at the forefront of the market, potentially establishing them as
 market leaders or innovators.
+
 Of course, but how can tourism companies take advantage of the full potential of this virtual reality tool?
 The study suggests that the key lies in prioritizing user engagement over mere photographic precision or
 sensory stimulation. The primary goal in crafting the VR environment should be to enable substantial user
@@ -278,7 +278,7 @@ media and drawn to appealing visual content, holds the potential to exert substa
 peers and family members. Their engagement with and enthusiasm for the enticing aspects of virtual reality
 can effectively motivate their loved ones to partake in such captivating experiences, such as a cruise trip.
 This not only offers millennials a chance to break away from routine but also fosters quality time for families
-to relish shared moments together. [5]
+to relish shared moments together. [@SKULMOWSKI2023100023]
 
 ## VR the world: Experimenting with emotion and presence for tourism marketing
 
@@ -317,36 +317,49 @@ for families to relish shared moments together.[@YUNG2021160]
 
 ## AR Museum
 
-AR Museum: a virtual museum using a markerless augmented reality sys-
-tem for mobile devices
-As virtual reality technology continues to expand its presence in the digital realm, its remarkable poten-
-tial extends to revolutionizing the cultural sector, particularly in the realm of museums. The incorporation
-of augmented reality (AR) within this industry is particularly awe-inspiring. An innovative endeavor in this
-direction involves the creation of an application called ARmvoil, designed to immerse users in a virtual
-museum environment. By seamlessly integrating AR technology, this application offers users a captivating
-opportunity to interact, engage, and explore an extensive collection of historical artifacts within a confined
-physical space. Furthermore, a comparative analysis between traditional museums and AR-based muse-
-ums was conducted within the framework of this article, shedding light on aspects of workload and user
-preference. The study’s findings in this regard can be distilled as follows:
-1. Workload: The study underscores a noteworthy discrepancy in terms of workload between the two
-museum formats. Remarkably, AR-based museum’s exhibit a notably lower overall workload in comparison
-to their traditional counterparts. Conventional museums often entail challenges in navigation due to their
-reliance on a taxonomy system. In contrast, the AR-based application’s approach significantly streamlines
-travel and content consumption, occupying minimal spatial considerations.
-2. Preference users: The study indicates a significant shift in user preference towards AR-based mu-
-seums. Over 71 percent of respondents favored the proposed AR application over traditional museums.
-Impressively, the AR-based application garnered a high average preference score of 4.74 out of 5. This
-substantial preference underscores the growing appeal of AR technology in shaping the future of museum
-experiences
-Now, some application to this technology highlights the following:
-1. Accessibility for visitors with hearing problems: AR technology implemented in museums can en-
-hance inclusivity by catering to visitors with hearing impairments. Through features like language transla-
-tions and subtitles, AR provides a visual avenue for accessing information. This ensures that individuals
-with hearing difficulties can engage fully with museum content, fostering a more enriching experience.
-2. Future adoption by interested persons, educational institutes and researchers: Experts predict that augmented reality will find future adoption among history enthusiasts, particularly those intrigued by fossils,
-paintings, statues, and various historical artifacts. This technology is regarded as a potent tool for enhancing
-the user experience, effectively harnessing its potential to provide an immersive and enriching encounter
-with diverse historical objects. [6]
+AR Museum: a virtual museum using a markerless augmented reality sys- tem for
+mobile devices As virtual reality technology continues to expand its presence
+in the digital realm, its remarkable poten- tial extends to revolutionizing the
+cultural sector, particularly in the realm of museums. The incorporation of
+augmented reality (AR) within this industry is particularly awe-inspiring. An
+innovative endeavor in this direction involves the creation of an application
+called ARmvoil, designed to immerse users in a virtual museum environment. By
+seamlessly integrating AR technology, this application offers users a
+captivating opportunity to interact, engage, and explore an extensive
+collection of historical artifacts within a confined physical space.
+Furthermore, a comparative analysis between traditional museums and AR-based
+muse- ums was conducted within the framework of this article, shedding light on
+aspects of workload and user preference. The study’s findings in this regard
+can be distilled as follows:
+1. Workload: The study underscores a noteworthy discrepancy in terms of
+   workload between the two museum formats. Remarkably, AR-based museum’s
+   exhibit a notably lower overall workload in comparison to their traditional
+   counterparts. Conventional museums often entail challenges in navigation due
+   to their reliance on a taxonomy system. In contrast, the AR-based
+   application’s approach significantly streamlines travel and content
+   consumption, occupying minimal spatial considerations.
+
+1. Preference users: The study indicates a significant shift in user preference
+   towards AR-based mu- seums. Over 71 percent of respondents favored the
+   proposed AR application over traditional museums. Impressively, the AR-based
+   application garnered a high average preference score of 4.74 out of 5. This
+   substantial preference underscores the growing appeal of AR technology in
+   shaping the future of museum experiences Now, some application to this
+   technology highlights the following:
+
+1. Accessibility for visitors with hearing problems: AR technology implemented
+   in museums can en- hance inclusivity by catering to visitors with hearing
+   impairments. Through features like language transla- tions and subtitles, AR
+   provides a visual avenue for accessing information. This ensures that
+   individuals with hearing difficulties can engage fully with museum content,
+   fostering a more enriching experience. . Future adoption by interested
+   persons, educational institutes and researchers: Experts predict that
+   augmented reality will find future adoption among history enthusiasts,
+   particularly those intrigued by fossils, paintings, statues, and various
+   historical artifacts. This technology is regarded as a potent tool for
+   enhancing the user experience, effectively harnessing its potential to
+   provide an immersive and enriching encounter with diverse historical
+   objects. [@10064611]
 
 ## AR Museum: a virtual museum using a markerless augmented reality system for mobile devices
 
@@ -616,3 +629,4 @@ with knowledge, ingenuity, and the world at large. While propelling ahead, this
 technological advancement offers to push the envelope, revolutionizing our mode
 of existence, edification, and engagement with the ever-evolving world that
 envelopes us.
+\newpage
