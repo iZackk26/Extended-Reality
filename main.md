@@ -253,9 +253,9 @@ these technologies continue to evolve over time, it's exciting to contemplate
 how extended reality could revolutionize the way we engage with the world
 around us.
 
-## Marketing
+<!-- ## Marketing -->
 
-Text Here!
+<!-- Text Here! -->
 
 ## VR the world: Experimenting with emotion and presence for tourism marketing
 
@@ -292,9 +292,9 @@ captivating experiences, such as a cruise trip. This not only offers
 millennials a chance to break away from routine but also fosters quality time
 for families to relish shared moments together.[@YUNG2021160]
 
-## AR Museum
+<!-- ## AR Museum -->
 
-Text Here!
+<!-- Text Here! -->
 
 ## AR Museum: a virtual museum using a markerless augmented reality system for mobile devices
 
@@ -360,10 +360,6 @@ Now, some application to this technology highlights the following:
     technology is regarded as a potent tool for enhancing the user experience,
     effectively harnessing its potential to provide an immersive and enriching
     encounter with diverse historical objects.[@10064611]
-
-## Health and well-being of people
-
-Text here!
 
 ## Other uses
 
