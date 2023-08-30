@@ -525,6 +525,19 @@ here are some reasons why:
    scenarios provided by XR, allowing hotel superiors to give employees
    different recommendations and identify areas they should improve. [@CUNHA2023634]
 
+## Implementation of augmented reality in Costa Rica
+
+The "Amón RA" project represents a cutting-edge research initiative that uses augmented reality technology to enrich the appreciation and dissemination of the Historic Urban Landscape of Barrio Amón (PUHBA) in Costa Rica, with a particular focus on the city of San José. This revolutionary project aims to overcome traditional conventions in the presentation and appreciation of the country's vast cultural and natural heritage, by introducing the immersive experience provided by augmented and virtual reality.
+The integration of virtual reality and its inherent advantages is aligned with the global current of taking advantage of its disruptive capabilities in various fields. In the Costa Rican context, its implementation is in line with the trend of promoting individual interactions with their historical and cultural environment, through this innovative digital tool.
+The advantages of this project in San José, Costa Rica, are highly remarkable in the historical-cultural sphere:
+
+1. The fusion of virtual elements with reality, experienced from the comfort of the user's home, intensifies the appreciation for Costa Rican culture and history.
+
+1. Facilitate dissemination at the national and international level, contributing to the global projection of the rich cultural and historical heritage of Costa Rica.
+
+1.  It actively encourages participation and engagement, helping visitors to interact and deepen their understanding of the country's history and culture.
+
+The augmented reality implementation strategy in this innovative project is based on the creation of an interactive and educational mobile application. Users will be able to access this application through their mobile devices while exploring the Historic Urban Landscape of Barrio Amón. The app will use the device's camera to overlay virtual elements, such as historical information, architectural details, and cultural anecdotes, on top of the real-time view of the physical environment. This will allow users to discover hidden and enriching aspects of the neighborhood that are not visible to the naked eye. In addition, the application will be designed with an intuitive and friendly interface to provide a fluid and accessible user experience.[@bulgarelli2019procesos]
 # Conclusion
 As we are well aware, the march forward of extended reality (XR) technology is
 transcending a multitude of spheres within society, setting in motion a
