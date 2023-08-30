@@ -165,7 +165,7 @@ Nowadays, augmented reality has gained recognition due to video games and
 industries that produce technology linked to the VR concept. For example, Meta
 with the Oculus Quest, PlayStation with its own VR headset, and now Apple joins
 the battle with the Vision Pro. All these devices have something in common:
-virtual reality.**CITE**
+virtual reality.[@pcmag-2023]
 
 Have you ever thought about what you can do in a video game with augmented
 reality? For example, Racing Simulation, also known as sim racing, is a very
@@ -372,7 +372,7 @@ how far objects are. [@9757681]
 
 ## Improving Mirror Fitness through augmented reality technology
 
-According to [@9985796], the global fitness industry suffered significant impacts as a result of the
+According to [@9985796] the global fitness industry suffered significant impacts as a result of the
 pandemic. In the US, numerous fitness gyms abruptly closed in mid-March 2021,
 leading to substantial layoffs affecting nearly a million fitness instructors.
 Prominent establishments like Gold's Gym also faced financial setbacks. Both
