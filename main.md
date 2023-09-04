@@ -111,9 +111,49 @@ mainstream of videogames and medicine [@hayes-2023].
         interact with an artificial three-dimensional (3D) visual or other
         sensory environment.
 
-## Applications
+# Applications
 
-### Education
+## Gaming and Entertaiment
+
+Nowadays, augmented reality has gained recognition due to video games and
+industries that produce technology linked to the VR concept. For example, Meta
+with the Oculus Quest, PlayStation with its own VR headset, and now Apple joins
+the battle with the Vision Pro. All these devices have something in common:
+virtual reality [@pcmag].
+
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=5cm,height=4cm]{Gaming}
+    \label{fig:etiqueta}
+\end{figure}
+
+Have you ever thought about what you can do in a video game with augmented
+reality? For example, Racing Simulation, also known as sim racing, is a very
+popular term when pilots from various categories use a VR headset and a sim
+racing combo to play and improve their times in games. By training in a virtual
+environment, they can test things that in real life can be very expensive, such
+as crashing a car, changing weather conditions, and testing different cars and
+their behaviors. This helps them improve their times, and their teams, who
+cover the costs of cars, fuel, tracks, etc., will not face any risks.
+
+Another important use of Augmented Reality is entertainment. For example, using
+an Oculus Quest, you can easily watch movies, series, and YouTube videos by
+searching for what you want. It’s very immersive, as all you see is a big
+screen with the media you’re playing. By combining this with mixed reality, you
+can adjust the size of the screen and interact with other people in your
+environment.
+
+Exercise using VR is also a significant topic. In the world, there are many
+different body types, for example, muscular and slim. Using a VR headset, you
+can play games that involve moving around, which causes your body to stay
+active and burn fat. This is important because some people don’t enjoy
+traditional exercise, making it a great way to stay active and burn fat.
+
+It’s crucial to know that you should use this kind of technology in moderation,
+as it can be very addictive. It’s recommended not to use it excessively during
+the day, as it can lead to eye damage and addiction.
+
+## Education
 
 Augmented reality has been helpfull in the education field, but when it really
 starts to help students and kids is when the Covid 19 begin. When teachers try
@@ -162,75 +202,60 @@ university, these include the following [@SKULMOWSKI2023100023].
     without adequate data protection rules and informed consent is ethically
     dubious.
 
-## Gaming and Entertaiment
+## Culture
 
-Nowadays, augmented reality has gained recognition due to video games and
-industries that produce technology linked to the VR concept. For example, Meta
-with the Oculus Quest, PlayStation with its own VR headset, and now Apple joins
-the battle with the Vision Pro. All these devices have something in common:
-virtual reality [@pcmag].
+As virtual reality technology continues to expand its presence in the digital
+realm, its remarkable potential extends to revolutionizing the cultural sector,
+particularly in the realm of museums. The incorporation of augmented reality
+(AR) within this industry is particularly awe-inspiring. An innovative endeavor
+in this direction involves the creation of an application called ARmvoil,
+designed to immerse users in a virtual museum environment. By seamlessly
+integrating AR technology, this application offers users a captivating
+opportunity to interact, engage, and explore an extensive collection of
+historical artifacts within a confined physical space. Furthermore, a
+comparative analysis between traditional museums and AR-based museums was
+conducted within the framework of this article, shedding light on aspects of
+workload and user preference. The study's findings in this regard can be
+distilled as follows [@10064611]:
 
 \begin{figure}[htbp]
     \centering
-    \includegraphics[width=5cm,height=4cm]{Gaming}
+    \includegraphics[width=6cm,height=4cm]{Museum}
     \label{fig:etiqueta}
 \end{figure}
 
-Have you ever thought about what you can do in a video game with augmented
-reality? For example, Racing Simulation, also known as sim racing, is a very
-popular term when pilots from various categories use a VR headset and a sim
-racing combo to play and improve their times in games. By training in a virtual
-environment, they can test things that in real life can be very expensive, such
-as crashing a car, changing weather conditions, and testing different cars and
-their behaviors. This helps them improve their times, and their teams, who
-cover the costs of cars, fuel, tracks, etc., will not face any risks.
+1.	Workload: The study underscores a noteworthy discrepancy in terms of
+    workload between the two museum formats. Remarkably, AR-based museum’s
+    exhibit a notably lower overall workload in comparison to their traditional
+    counterparts. Conventional museums often entail challenges in navigation
+    due to their reliance on a taxonomy system. In contrast, the AR-based
+    application's approach significantly streamlines travel and content
+    consumption, occupying minimal spatial considerations.
 
-Another important use of Augmented Reality is entertainment. For example, using
-an Oculus Quest, you can easily watch movies, series, and YouTube videos by
-searching for what you want. It’s very immersive, as all you see is a big
-screen with the media you’re playing. By combining this with mixed reality, you
-can adjust the size of the screen and interact with other people in your
-environment.
+1.	Preference users: The study indicates a significant shift in user
+    preference towards AR-based museums. Over 71 percent of respondents favored
+    the proposed AR application over traditional museums. Impressively, the
+    AR-based application garnered a high average preference score of 4.74 out
+    of 5. This substantial preference underscores the growing appeal of AR
+    technology in shaping the future of museum experiences
 
-Exercise using VR is also a significant topic. In the world, there are many
-different body types, for example, muscular and slim. Using a VR headset, you
-can play games that involve moving around, which causes your body to stay
-active and burn fat. This is important because some people don’t enjoy
-traditional exercise, making it a great way to stay active and burn fat.
+Now, some application to this technology highlights the following:
 
-It’s crucial to know that you should use this kind of technology in moderation,
-as it can be very addictive. It’s recommended not to use it excessively during
-the day, as it can lead to eye damage and addiction.
+1.	Accessibility for visitors with hearing problems: AR technology implemented
+    in museums can enhance inclusivity by catering to visitors with hearing
+    impairments. Through features like language translations and subtitles, AR
+    provides a visual avenue for accessing information. This ensures that
+    individuals with hearing difficulties can engage fully with museum content,
+    fostering a more enriching experience.
 
-## Healthcare
+2.	Future adoption by interested persons, educational institutes and
+    researchers: Experts predict that augmented reality will find future
+    adoption among history enthusiasts, particularly those intrigued by
+    fossils, paintings, statues, and various historical artifacts. This
+    technology is regarded as a potent tool for enhancing the user experience,
+    effectively harnessing its potential to provide an immersive and enriching
+    encounter with diverse historical objects.
 
-The integration of digital technologies has leading a new paradigm shift in
-teaching methods, for example in augmented reality and mixed reality has a
-potential to transform the medical education, why? because with this kind of
-technology people can learn the procedures, surgical planning and guidance.
-
-The review of 26 studies that used augmented reality and mixed reality in
-medical education, found that VR and XR can improve in the training of
-professionals in health.
-
-
-
-One of the key strengths highlighted in the review is the versatility of AR and
-MR applications across various subjects and learner types. The studies covered
-diverse healthcare disciplines, such as anatomy and anesthesia, catering to
-learners of different levels and specialties. These technologies offer an
-interactive and immersive learning experience, enabling participants to engage
-with virtual and real-world elements simultaneously. Moreover, the studies
-showcased a rich diversity in research focus, ranging from introducing novel
-applications to evaluating their impact on training and learning outcomes.
-
-There are some weaknesses in the VR and XR, for example, a lot of studies
-showed early versions of things without really checking how helpful they were
-for learning, as well they said that using AR and MR was really good for
-improvement and learning, but others didn't find clear proof of this. Because
-of these mixed results, it's important to have better ways to do the research,
-like using the same methods for everyone, checking lots of different aspects,
-and including more people in the studies.
 
 ## Architecture and Design
 
@@ -311,78 +336,7 @@ captivating experiences, such as a cruise trip. This not only offers
 millennials a chance to break away from routine but also fosters quality time
 for families to relish shared moments together.
 
-## AR Culture
-
-As virtual reality technology continues to expand its presence in the digital
-realm, its remarkable potential extends to revolutionizing the cultural sector,
-particularly in the realm of museums. The incorporation of augmented reality
-(AR) within this industry is particularly awe-inspiring. An innovative endeavor
-in this direction involves the creation of an application called ARmvoil,
-designed to immerse users in a virtual museum environment. By seamlessly
-integrating AR technology, this application offers users a captivating
-opportunity to interact, engage, and explore an extensive collection of
-historical artifacts within a confined physical space. Furthermore, a
-comparative analysis between traditional museums and AR-based museums was
-conducted within the framework of this article, shedding light on aspects of
-workload and user preference. The study's findings in this regard can be
-distilled as follows [@10064611]:
-
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=6cm,height=4cm]{Museum}
-    \label{fig:etiqueta}
-\end{figure}
-
-1.	Workload: The study underscores a noteworthy discrepancy in terms of
-    workload between the two museum formats. Remarkably, AR-based museum’s
-    exhibit a notably lower overall workload in comparison to their traditional
-    counterparts. Conventional museums often entail challenges in navigation
-    due to their reliance on a taxonomy system. In contrast, the AR-based
-    application's approach significantly streamlines travel and content
-    consumption, occupying minimal spatial considerations.
-
-1.	Preference users: The study indicates a significant shift in user
-    preference towards AR-based museums. Over 71 percent of respondents favored
-    the proposed AR application over traditional museums. Impressively, the
-    AR-based application garnered a high average preference score of 4.74 out
-    of 5. This substantial preference underscores the growing appeal of AR
-    technology in shaping the future of museum experiences
-
-Now, some application to this technology highlights the following:
-
-1.	Accessibility for visitors with hearing problems: AR technology implemented
-    in museums can enhance inclusivity by catering to visitors with hearing
-    impairments. Through features like language translations and subtitles, AR
-    provides a visual avenue for accessing information. This ensures that
-    individuals with hearing difficulties can engage fully with museum content,
-    fostering a more enriching experience.
-
-2.	Future adoption by interested persons, educational institutes and
-    researchers: Experts predict that augmented reality will find future
-    adoption among history enthusiasts, particularly those intrigued by
-    fossils, paintings, statues, and various historical artifacts. This
-    technology is regarded as a potent tool for enhancing the user experience,
-    effectively harnessing its potential to provide an immersive and enriching
-    encounter with diverse historical objects.
-
-## Other uses
-
-Extended reality could also improve the lives of disabled people, for example,
-despite how odd it might seem, mixed reality can help people affected by
-blindness or visual impairments. In this case, the approach involves creating a
-program on a device compatible with spatial sensing such as the HoloLens 2.
-This program would be capable of recognizing the surroundings and providing
-auditory alerts about the environment. This is especially useful for people who
-depends of a white cane, as the cane helps perceive the ground but not the area
-above their pelvis.
-
-By implementing what was described before, blind individuals could gain the
-ability to recognize the entire surroundings, giving them more security and
-protection. Another method to achieve this is through vibrating warnings, for
-example from a smartwatch that would send more intense warnings depending on
-how far objects are [@9757681].
-
-## Improving Mirror Fitness through augmented reality technology
+## Fitness
 
 According to [@9985796] the global fitness industry suffered significant impacts as a result of the
 pandemic. In the US, numerous fitness gyms abruptly closed in mid-March 2021,
@@ -422,6 +376,34 @@ feedback and corrections, enhancing exercise benefits and reducing injury
 risks. In addition, AR facilitates natural and immersive interaction with
 virtual objects, improving the user experience and the effectiveness of the
 system.
+
+## Healthcare
+
+The integration of digital technologies has leading a new paradigm shift in
+teaching methods, for example in augmented reality and mixed reality has a
+potential to transform the medical education, why? because with this kind of
+technology people can learn the procedures, surgical planning and guidance.
+
+The review of 26 studies that used augmented reality and mixed reality in
+medical education, found that VR and XR can improve in the training of
+professionals in health.
+
+One of the key strengths highlighted in the review is the versatility of AR and
+MR applications across various subjects and learner types. The studies covered
+diverse healthcare disciplines, such as anatomy and anesthesia, catering to
+learners of different levels and specialties. These technologies offer an
+interactive and immersive learning experience, enabling participants to engage
+with virtual and real-world elements simultaneously. Moreover, the studies
+showcased a rich diversity in research focus, ranging from introducing novel
+applications to evaluating their impact on training and learning outcomes.
+
+There are some weaknesses in the VR and XR, for example, a lot of studies
+showed early versions of things without really checking how helpful they were
+for learning, as well they said that using AR and MR was really good for
+improvement and learning, but others didn't find clear proof of this. Because
+of these mixed results, it's important to have better ways to do the research,
+like using the same methods for everyone, checking lots of different aspects,
+and including more people in the studies.
 
 ## Medical Training
 
@@ -537,7 +519,25 @@ here are some reasons why:
    scenarios provided by XR, allowing hotel superiors to give employees
    different recommendations and identify areas they should improve. [@CUNHA2023634]
 
+## Other uses
+
+Extended reality could also improve the lives of disabled people, for example,
+despite how odd it might seem, mixed reality can help people affected by
+blindness or visual impairments. In this case, the approach involves creating a
+program on a device compatible with spatial sensing such as the HoloLens 2.
+This program would be capable of recognizing the surroundings and providing
+auditory alerts about the environment. This is especially useful for people who
+depends of a white cane, as the cane helps perceive the ground but not the area
+above their pelvis.
+
+By implementing what was described before, blind individuals could gain the
+ability to recognize the entire surroundings, giving them more security and
+protection. Another method to achieve this is through vibrating warnings, for
+example from a smartwatch that would send more intense warnings depending on
+how far objects are [@9757681].
+
 # Conclusion
+
 As we are well aware, the march forward of extended reality (XR) technology is
 transcending a multitude of spheres within society, setting in motion a
 profound transformation in the way we engage with our surroundings and acquire
