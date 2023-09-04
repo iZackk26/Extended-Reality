@@ -86,7 +86,7 @@ technologies, that covers Aumented Reality (AR) and Mixed Reality (MR). This
 technology is used to create immersive experiences for the user, by combining
 real and virtual worlds. The term XR initialized when Charles Wyckoff filled a
 patent in 1960 for his development. Then nowadays the term has moved to the
-mainstream of videogames and medicine. [@hayes-2023]
+mainstream of videogames and medicine [@hayes-2023].
 \begin{figure}[htbp]
     \centering
     \includegraphics[width=6cm,height=4cm]{XR}
