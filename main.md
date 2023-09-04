@@ -12,7 +12,6 @@ header-includes:
     \graphicspath{{/home/izack/Proyectos/Latex/XR/Pictures}}
 
 ---
-
 # Abstract
 
 This article presents how extended reality and its components have
@@ -77,11 +76,10 @@ creating a more personalized and captivating experience. Beyond museums, XR's ap
 extend to fields like engineering, automotive design, job training, and psychological therapy, 
 showcasing its diverse and potential.
 
-# State of Art
 
-## Extended Reality
+# Extended Reality
 
-### Definition
+## Definition
 
 Extended reality (XR) stands for a combination of real and virtual enviroment
 technologies, that covers Aumented Reality (AR) and Mixed Reality (MR). This
@@ -107,7 +105,7 @@ mainstream of videogames and medicine. [@hayes-2023]
         environments and visualizations where physical and digital objects
         co-exist one with the other. This new reality is based on advancements
         in computer vision, graphical processing, display technologies, input
-        systems, and cloud computing.[@qianw-2023]
+        systems, and cloud computing [@qianw-2023].
 
 1. Virtual Reality
         the use of computer modeling and simulation that enables a person to
@@ -135,7 +133,7 @@ presented.
 
 Now knowing this, there are some ethical concerns that are associated with the
 use of virtual reality in the field of education, be it school, college or
-university, these include the following. [@SKULMOWSKI2023100023]
+university, these include the following [@SKULMOWSKI2023100023].
 
 1. Manipulation:
     VR can be misused to manipulate students, as the high level of realism in VR
@@ -165,7 +163,7 @@ Nowadays, augmented reality has gained recognition due to video games and
 industries that produce technology linked to the VR concept. For example, Meta
 with the Oculus Quest, PlayStation with its own VR headset, and now Apple joins
 the battle with the Vision Pro. All these devices have something in common:
-virtual reality.[@pcmag-2023]
+virtual reality [@pcmag].
 
 Have you ever thought about what you can do in a video game with augmented
 reality? For example, Racing Simulation, also known as sim racing, is a very
@@ -238,7 +236,7 @@ errors in their design and to test their models in a more efficient and
 cost-effective way. This can lead to better design outcomes and a more
 effective learning experience for students. Overall, the use of XR technology
 in architecture design education has the potential to revolutionize the way
-students learn and practice design.[@darwish-2023]
+students learn and practice design [@darwish-2023].
 
 The versatility of this software and user interfaces harnessing extended
 reality holds the potential to profoundly reshape various global industries. By
@@ -334,7 +332,7 @@ Now, some application to this technology highlights the following:
     fossils, paintings, statues, and various historical artifacts. This
     technology is regarded as a potent tool for enhancing the user experience,
     effectively harnessing its potential to provide an immersive and enriching
-    encounter with diverse historical objects. \cite{10064611}
+    encounter with diverse historical objects [@10064611].
 
 Now, some application to this technology highlights the following:
 
@@ -368,7 +366,7 @@ By implementing what was described before, blind individuals could gain the
 ability to recognize the entire surroundings, giving them more security and
 protection. Another method to achieve this is through vibrating warnings, for
 example from a smartwatch that would send more intense warnings depending on
-how far objects are. [@9757681]
+how far objects are [@9757681].
 
 ## Improving Mirror Fitness through augmented reality technology
 
@@ -443,7 +441,7 @@ students for surgeries, for example:
 After completing these steps, students are required to observe the surgery. The
 program also provides feedback to students, highlighting their strengths and
 pointing out areas for improvement, even compelling them to repeat tasks if a
-mistake occurs. [@9644263]
+mistake occurs [@9644263].
 
 ## Military pilot training and flight simulations
 
@@ -479,7 +477,7 @@ using this technology. The process consists of several steps:
 1. Training Sessions: This step involves three distinct subjects:
     1. Short autopilot guided flight.
     1. Supervised 15 minutes flight.
-    1. Unsupervised 30 minutes flight. [@ARJONI2023e14181]
+    1. Unsupervised 30 minutes flight [@ARJONI2023e14181].
 
 <!-- \includegraphics[width=4cm, height=4cm]{AR} -->
 \begin{figure}[htbp]
