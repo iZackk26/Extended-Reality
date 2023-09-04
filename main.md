@@ -76,7 +76,6 @@ creating a more personalized and captivating experience. Beyond museums, XR's ap
 extend to fields like engineering, automotive design, job training, and psychological therapy, 
 showcasing its diverse and potential.
 
-
 # Extended Reality
 
 ## Definition
@@ -123,6 +122,12 @@ concentration, and that's when the AR comes in. When the students learn by
 using interactions and uses technologies they start to get insterest in the
 topics the teacher teach.
 
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=6cm,height=4cm]{Education}
+    \label{fig:etiqueta}
+\end{figure}
+
 Integrating augmented reality into the learning process will be helpfull and
 will bring to the students an interactive dimension that strongly resonates
 with students, specially in situationes where learning occurs remotely or
@@ -165,6 +170,12 @@ with the Oculus Quest, PlayStation with its own VR headset, and now Apple joins
 the battle with the Vision Pro. All these devices have something in common:
 virtual reality [@pcmag].
 
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=5cm,height=4cm]{Gaming}
+    \label{fig:etiqueta}
+\end{figure}
+
 Have you ever thought about what you can do in a video game with augmented
 reality? For example, Racing Simulation, also known as sim racing, is a very
 popular term when pilots from various categories use a VR headset and a sim
@@ -202,6 +213,8 @@ The review of 26 studies that used augmented reality and mixed reality in
 medical education, found that VR and XR can improve in the training of
 professionals in health.
 
+
+
 One of the key strengths highlighted in the review is the versatility of AR and
 MR applications across various subjects and learner types. The studies covered
 diverse healthcare disciplines, such as anatomy and anesthesia, catering to
@@ -228,6 +241,12 @@ scale, this can be really helpfull for the students because they can see their
 model in 3d, test it and know posible erros that could occurr. This technology
 can improve the students spatial ability levels in architecture design
 education
+
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=6cm,height=4cm]{Architecture}
+    \label{fig:etiqueta}
+\end{figure}
 
 XR technology can help students to understand the relationships between objects
 and to formulate mental images, which are essential skills in architecture
@@ -265,6 +284,12 @@ experiences in retaining customers. Consequently, this approach positions
 brands at the forefront of the market, potentially establishing them as market
 leaders or innovators.
 
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=6cm,height=4cm]{Marketing}
+    \label{fig:etiqueta}
+\end{figure}
+
 Of course, but how can tourism companies take advantage of the full potential
 of this virtual reality tool? The study suggests that the key lies in
 prioritizing user engagement over mere photographic precision or sensory
@@ -286,7 +311,7 @@ captivating experiences, such as a cruise trip. This not only offers
 millennials a chance to break away from routine but also fosters quality time
 for families to relish shared moments together.
 
-## AR Museum
+## AR Culture
 
 As virtual reality technology continues to expand its presence in the digital
 realm, its remarkable potential extends to revolutionizing the cultural sector,
@@ -302,6 +327,12 @@ conducted within the framework of this article, shedding light on aspects of
 workload and user preference. The study's findings in this regard can be
 distilled as follows [@10064611]:
 
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=6cm,height=4cm]{Museum}
+    \label{fig:etiqueta}
+\end{figure}
+
 1.	Workload: The study underscores a noteworthy discrepancy in terms of
     workload between the two museum formats. Remarkably, AR-based museum’s
     exhibit a notably lower overall workload in comparison to their traditional
@@ -316,23 +347,6 @@ distilled as follows [@10064611]:
     AR-based application garnered a high average preference score of 4.74 out
     of 5. This substantial preference underscores the growing appeal of AR
     technology in shaping the future of museum experiences
-
-Now, some application to this technology highlights the following:
-
-1.	Accessibility for visitors with hearing problems: AR technology implemented
-    in museums can enhance inclusivity by catering to visitors with hearing
-    impairments. Through features like language translations and subtitles, AR
-    provides a visual avenue for accessing information. This ensures that
-    individuals with hearing difficulties can engage fully with museum content,
-    fostering a more enriching experience.
-
-1.	Future adoption by interested persons, educational institutes and
-    researchers: Experts predict that augmented reality will find future
-    adoption among history enthusiasts, particularly those intrigued by
-    fossils, paintings, statues, and various historical artifacts. This
-    technology is regarded as a potent tool for enhancing the user experience,
-    effectively harnessing its potential to provide an immersive and enriching
-    encounter with diverse historical objects [@10064611].
 
 Now, some application to this technology highlights the following:
 
@@ -379,6 +393,12 @@ suspended operations, disrupting revenue streams, while fixed costs such as
 rent, salaries, and operating expenses persisted. This situation led gyms to
 explore bankruptcy restructuring in order to survive.
 
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=6cm,height=4cm]{Gym}
+    \label{fig:etiqueta}
+\end{figure}
+
 At the start of the pandemic in the winter of 2020, there was a greater
 emphasis on physical activity due to its potential benefits against COVID-19.
 This led to remarkable growth in the fitness industry, giving rise to new
@@ -410,6 +430,12 @@ medical student. Even the first time they enter an operating room to witness
 their initial surgical intervention, it doesn’t provide the best feeling. The
 issue may be that people is not familiarized with such images, which can be
 shocking when seen them in real life for first time.
+
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=6cm,height=4cm]{Medical}
+    \label{fig:etiqueta}
+\end{figure}
 
 On the other hand, in recent years, several Virtual Reality applications have
 been developed to simulate various medical activities, including those
