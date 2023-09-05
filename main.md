@@ -120,11 +120,7 @@ with the Oculus Quest, PlayStation with its own VR headset, and now Apple joins
 the battle with the Vision Pro. All these devices have something in common:
 virtual reality [@pcmag].
 
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=5cm,height=4cm]{Gaming}
-    \label{fig:etiqueta}
-\end{figure}
+![Describing how virtual reality works in gaming [@gaming].](Gaming.jpg){#id .class width=6cm height=4cm}
 
 Have you ever thought about what you can do in a video game with augmented
 reality? For example, Racing Simulation, also known as sim racing, is a very
@@ -161,7 +157,7 @@ concentration, and that's when the AR comes in. When the students learn by
 using interactions and uses technologies they start to get insterest in the
 topics the teacher teach.
 
-![Describing the functionality of a VR headset in education [@hayes-2023].](Education.jpg){#id .class width=6cm height=4cm}
+![Describing the functionality of a VR headset in education [@Education].](Education.jpg){#id .class width=6cm height=4cm}
 
 Integrating augmented reality into the learning process will be helpfull and
 will bring to the students an interactive dimension that strongly resonates
@@ -213,11 +209,8 @@ conducted within the framework of this article, shedding light on aspects of
 workload and user preference. The study's findings in this regard can be
 distilled as follows [@10064611]:
 
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=6cm,height=4cm]{Museum}
-    \label{fig:etiqueta}
-\end{figure}
+
+![Describing how can a vr headset can display the dinosours apareance in the past [@Ar-Museum].](Museum.jpg){#id .class width=6cm height=4cm}
 
 1.	Workload: The study underscores a noteworthy discrepancy in terms of
     workload between the two museum formats. Remarkably, AR-based museum’s
@@ -262,11 +255,7 @@ model in 3d, test it and know posible erros that could occurr. This technology
 can improve the students spatial ability levels in architecture design
 education
 
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=6cm,height=4cm]{Architecture}
-    \label{fig:etiqueta}
-\end{figure}
+![Displaying holographic parts using vr headset [@architecture].](Architecture.jpg){#id .class width=6cm height=4cm}
 
 XR technology can help students to understand the relationships between objects
 and to formulate mental images, which are essential skills in architecture
@@ -304,11 +293,7 @@ experiences in retaining customers. Consequently, this approach positions
 brands at the forefront of the market, potentially establishing them as market
 leaders or innovators.
 
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=6cm,height=4cm]{Marketing}
-    \label{fig:etiqueta}
-\end{figure}
+![Seeing how visualizing objects can get the attention of the consumer [@Marketing].](Marketing.jpg){#id .class width=6cm height=4cm}
 
 Of course, but how can tourism companies take advantage of the full potential
 of this virtual reality tool? The study suggests that the key lies in
@@ -342,11 +327,7 @@ suspended operations, disrupting revenue streams, while fixed costs such as
 rent, salaries, and operating expenses persisted. This situation led gyms to
 explore bankruptcy restructuring in order to survive.
 
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=6cm,height=4cm]{Gym}
-    \label{fig:etiqueta}
-\end{figure}
+![Describing how virtual reality can impact the metabolism of people [@Fitness].](Gym.jpg){#id .class width=6cm height=4cm}
 
 At the start of the pandemic in the winter of 2020, there was a greater
 emphasis on physical activity due to its potential benefits against COVID-19.
@@ -392,6 +373,9 @@ with virtual and real-world elements simultaneously. Moreover, the studies
 showcased a rich diversity in research focus, ranging from introducing novel
 applications to evaluating their impact on training and learning outcomes.
 
+
+![Describing how virtual reality can impact the metabolism of people [@healthcare].](Medical.jpg){#id .class width=6cm height=4cm}
+
 There are some weaknesses in the VR and XR, for example, a lot of studies
 showed early versions of things without really checking how helpful they were
 for learning, as well they said that using AR and MR was really good for
@@ -408,11 +392,8 @@ their initial surgical intervention, it doesn’t provide the best feeling. The
 issue may be that people is not familiarized with such images, which can be
 shocking when seen them in real life for first time.
 
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=6cm,height=4cm]{Medical}
-    \label{fig:etiqueta}
-\end{figure}
+
+![Describing how virtual reality can impact the metabolism of people [@medicalTraining].](Medicaltraining.jpg){#id .class width=6cm height=4cm}
 
 On the other hand, in recent years, several Virtual Reality applications have
 been developed to simulate various medical activities, including those
@@ -482,13 +463,7 @@ using this technology. The process consists of several steps:
     1. Supervised 15 minutes flight.
     1. Unsupervised 30 minutes flight [@ARJONI2023e14181].
 
-<!-- \includegraphics[width=4cm, height=4cm]{AR} -->
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=4cm,height=4cm]{AR}
-    \caption{Running training, with the leader aircraft projected}
-    \label{fig:etiqueta}
-\end{figure}
+![Running training, with the leader aircraft projected [@ARJONI2023e14181].](AR.png){#id .class width=6cm height=4cm}
 
 ## Hospitality and hotel personnel training
 
@@ -512,7 +487,7 @@ here are some reasons why:
 
 1. Also, hotel personnel can be evaluated by their performance in virtual
    scenarios provided by XR, allowing hotel superiors to give employees
-   different recommendations and identify areas they should improve. [@CUNHA2023634]
+   different recommendations and identify areas they should improve [@CUNHA2023634].
 
 ## Other uses
 
