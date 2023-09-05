@@ -81,7 +81,7 @@ showcasing its diverse and potential.
 ## Definition
 
 Extended reality (XR) stands for a combination of real and virtual enviroment
-technologies, that covers Aumented Reality (AR) and Mixed Reality (MR). This
+technologies, that covers Aumented Reality (AR), Mixed Reality (MR) and Virtual Reality (VR). This
 technology is used to create immersive experiences for the user, by combining
 real and virtual worlds. The term XR initialized when Charles Wyckoff filled a
 patent in 1960 for his development. Then nowadays the term has moved to the
@@ -357,8 +357,7 @@ system.
 
 The integration of digital technologies has leading a new paradigm shift in
 teaching methods, for example in augmented reality and mixed reality has a
-potential to transform the medical education, why? because with this kind of
-technology people can learn the procedures, surgical planning and guidance.
+potential to transform the medical education, using this  technology people can learn the procedures, surgical planning and guidance.
 
 The review of 26 studies that used augmented reality and mixed reality in
 medical education, found that VR and XR can improve in the training of
