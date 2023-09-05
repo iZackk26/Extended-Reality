@@ -505,6 +505,18 @@ protection. Another method to achieve this is through vibrating warnings, for
 example from a smartwatch that would send more intense warnings depending on
 how far objects are [@9757681].
 
+Turning our gaze to the Costa Rican context, the "Amón RA" project unveils the
+potential of augmented reality to deepen the comprehension of cultural and
+historical heritage. By means of an interactive application, users are invited
+to navigate virtual elements within their tangible environment, thereby
+enriching their affiliation with the storied legacy and vibrant culture of
+Costa Rica. Collectively, the inexorable progression of XR is etching an
+expansive canvas painted with limitless prospects, redefining our interface
+with knowledge, ingenuity, and the world at large. While propelling ahead, this
+technological advancement offers to push the envelope, revolutionizing our mode
+of existence, edification, and engagement with the ever-evolving world that
+envelopes us.
+
 # Conclusion
 
 As we are well aware, the march forward of extended reality (XR) technology is
@@ -537,15 +549,3 @@ and aviation. From the simulation of complex surgical procedures to the
 training of military aviators through the prism of virtual reality, XR is
 definitively diminishing hazards, curbing expenditures, and elevating the
 overall standard of preparedness.
-
-Turning our gaze to the Costa Rican context, the "Amón RA" project unveils the
-potential of augmented reality to deepen the comprehension of cultural and
-historical heritage. By means of an interactive application, users are invited
-to navigate virtual elements within their tangible environment, thereby
-enriching their affiliation with the storied legacy and vibrant culture of
-Costa Rica. Collectively, the inexorable progression of XR is etching an
-expansive canvas painted with limitless prospects, redefining our interface
-with knowledge, ingenuity, and the world at large. While propelling ahead, this
-technological advancement offers to push the envelope, revolutionizing our mode
-of existence, edification, and engagement with the ever-evolving world that
-envelopes us.
