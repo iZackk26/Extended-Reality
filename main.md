@@ -327,7 +327,7 @@ suspended operations, disrupting revenue streams, while fixed costs such as
 rent, salaries, and operating expenses persisted. This situation led gyms to
 explore bankruptcy restructuring in order to survive.
 
-![Describing how virtual reality can impact the metabolism of people [@Fitness].](Gym.jpg){#id .class width=6cm height=4cm}
+![Describing how virtual reality can impact the metabolism and physical activity of people [@Fitness].](Gym.jpg){#id .class width=6cm height=4cm}
 
 At the start of the pandemic in the winter of 2020, there was a greater
 emphasis on physical activity due to its potential benefits against COVID-19.
