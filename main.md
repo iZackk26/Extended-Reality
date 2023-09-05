@@ -353,7 +353,7 @@ risks. In addition, AR facilitates natural and immersive interaction with
 virtual objects, improving the user experience and the effectiveness of the
 system.
 
-## Healthcare
+## Medical Training
 
 The integration of digital technologies has leading a new paradigm shift in
 teaching methods, for example in augmented reality and mixed reality has a
@@ -384,7 +384,6 @@ of these mixed results, it's important to have better ways to do the research,
 like using the same methods for everyone, checking lots of different aspects,
 and including more people in the studies.
 
-## Medical Training
 
 Performing the first surgery is one of the most stressful experiences for a
 medical student. Even the first time they enter an operating room to witness
