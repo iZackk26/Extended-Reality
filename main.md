@@ -374,7 +374,7 @@ showcased a rich diversity in research focus, ranging from introducing novel
 applications to evaluating their impact on training and learning outcomes.
 
 
-![Describing how virtual reality can impact the metabolism of people [@healthcare].](Medical.jpg){#id .class width=6cm height=4cm}
+![Describing how virtual reality can improve knowledge of students [@healthcare].](Medical.jpg){#id .class width=6cm height=4cm}
 
 There are some weaknesses in the VR and XR, for example, a lot of studies
 showed early versions of things without really checking how helpful they were
@@ -393,7 +393,7 @@ issue may be that people is not familiarized with such images, which can be
 shocking when seen them in real life for first time.
 
 
-![Describing how virtual reality can impact the metabolism of people [@medicalTraining].](Medicaltraining.jpg){#id .class width=6cm height=4cm}
+![Describing how virtual and mixed reality can simplify the way students learn [@medicalTraining].](Medicaltraining.jpg){#id .class width=6cm height=4cm}
 
 On the other hand, in recent years, several Virtual Reality applications have
 been developed to simulate various medical activities, including those
