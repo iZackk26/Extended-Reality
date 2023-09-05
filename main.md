@@ -86,30 +86,29 @@ technology is used to create immersive experiences for the user, by combining
 real and virtual worlds. The term XR initialized when Charles Wyckoff filled a
 patent in 1960 for his development. Then nowadays the term has moved to the
 mainstream of videogames and medicine [@hayes-2023].
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=6cm,height=4cm]{XR}
-\end{figure}
+
+
+![Definition of Virtual Reality [@hayes-2023].](XR.jpg){#id .class width=6cm height=4cm}
 
 
 1. Augmented Reality
-        AR is an enhanced version of the real physical world that is achieved
-        through the use of digital visual elements, sound, or other sensory
-        stimuli and delivered via technology. It is a growing trend among
-        companies involved in mobile computing and business applications in
-        particular.
+AR is an enhanced version of the real physical world that is achieved
+through the use of digital visual elements, sound, or other sensory
+stimuli and delivered via technology. It is a growing trend among
+companies involved in mobile computing and business applications in
+particular.
 
 1. Mixed Reality
-        MR is the merge of real and virtual worlds to recreate and produce new
-        environments and visualizations where physical and digital objects
-        co-exist one with the other. This new reality is based on advancements
-        in computer vision, graphical processing, display technologies, input
-        systems, and cloud computing [@qianw-2023].
+MR is the merge of real and virtual worlds to recreate and produce new
+environments and visualizations where physical and digital objects
+co-exist one with the other. This new reality is based on advancements
+in computer vision, graphical processing, display technologies, input
+systems, and cloud computing [@qianw-2023].
 
 1. Virtual Reality
-        the use of computer modeling and simulation that enables a person to
-        interact with an artificial three-dimensional (3D) visual or other
-        sensory environment.
+the use of computer modeling and simulation that enables a person to
+interact with an artificial three-dimensional (3D) visual or other
+sensory environment.
 
 # Applications
 
@@ -162,11 +161,7 @@ concentration, and that's when the AR comes in. When the students learn by
 using interactions and uses technologies they start to get insterest in the
 topics the teacher teach.
 
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=6cm,height=4cm]{Education}
-    \label{fig:etiqueta}
-\end{figure}
+![Describing the functionality of a VR headset in education [@hayes-2023].](Education.jpg){#id .class width=6cm height=4cm}
 
 Integrating augmented reality into the learning process will be helpfull and
 will bring to the students an interactive dimension that strongly resonates
