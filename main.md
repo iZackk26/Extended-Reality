@@ -91,24 +91,24 @@ mainstream of videogames and medicine [@hayes-2023].
 ![Definition of Virtual Reality [@hayes-2023].](XR.jpg){#id .class width=6cm height=4cm}
 
 
-1. Augmented Reality
+1. Augmented Reality: 
 AR is an enhanced version of the real physical world that is achieved
 through the use of digital visual elements, sound, or other sensory
 stimuli and delivered via technology. It is a growing trend among
 companies involved in mobile computing and business applications in
 particular.
 
-1. Mixed Reality
+1. Mixed Reality: 
 MR is the merge of real and virtual worlds to recreate and produce new
 environments and visualizations where physical and digital objects
 co-exist one with the other. This new reality is based on advancements
 in computer vision, graphical processing, display technologies, input
 systems, and cloud computing [@qianw-2023].
 
-1. Virtual Reality
-the use of computer modeling and simulation that enables a person to
-interact with an artificial three-dimensional (3D) visual or other
-sensory environment.
+1. Virtual Reality: 
+VR depends of the use of a computer modeling to visualize and simulate objects
+and environments. That enables a person to interact with an artificial
+three-dimensional (3D) objects and visualize other sensory environment.
 
 # Applications
 
