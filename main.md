@@ -445,7 +445,7 @@ including:
 
 1. Mitigating the risks of a real in-flight combat training.
 
-1. educing training cost for military pilots by half, as only one aircraft is
+1. Reducing training cost for military pilots by half, as only one aircraft is
    needed, similar to regular in-flight training.
 1. Prepare pilots to various situations and show them the field where they will
    be working.
