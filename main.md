@@ -548,3 +548,5 @@ and aviation. From the simulation of complex surgical procedures to the
 training of military aviators through the prism of virtual reality, XR is
 definitively diminishing hazards, curbing expenditures, and elevating the
 overall standard of preparedness.
+
+# References
